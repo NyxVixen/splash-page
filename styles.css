@@ -64,7 +64,7 @@ p {
 .fine-print {
     font-size: 0.75rem;
     letter-spacing: 1px;
-    color: #858585;
+    color: #3f3f3f;
 }
 
 /* =================
@@ -101,6 +101,7 @@ p {
 .main-content {
     align-items: center;
     padding-top: 2.5em;
+    background-color: #c0e2e5;
 }
 
 .img-main {
@@ -127,13 +128,13 @@ button {
 input {
     padding: 0.5em;
     margin-bottom: 0.75em;
-    border: 2px solid #d1d5db;
+    border: 2px solid #8f8f8f;
 }
 
 input:focus {
     outline: none;
     border-color: #007ea7;
-    background-color: #e6e8ec;
+    background-color: #e4e4e4;
 }
 
 .btn {
@@ -147,13 +148,13 @@ input:focus {
 
 .btn-primary {
     color: white;
-    background-color: #6096ba;
+    background-color: #007ea7;
     margin-top: 1em;    
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #a3cef1;
+    background-color: #5b9bc6;
 }
 
 /* =================
